@@ -39,15 +39,19 @@ win10或者Linux自行安装,手机端推荐使用[**Qpython**][1]
 安装python requests库支持
 
     pip install requests
-在学校机电云课堂网站获得[**cookie**][2],下载脚本运行后输入cookie即可
+打开main.py文件第二第三行填写账号和密码后保存即可
 
     手机端Qpython直接运行
     其他平台使用Pyhon3 main.py运行
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 **截图**
 ![run](https://www.evileyesaint.com/uploads/2020/11/run.jpg)
 ![jc](https://www.evileyesaint.com/uploads/2020/11/jc.jpg)
+=======
+
+>>>>>>> main
 
 **更新**
 =======
@@ -73,6 +77,7 @@ win10或者Linux自行安装,手机端推荐使用[**Qpython**][1]
     - v1.1-beta-4  更新获取方式,更快响应
 - 20-11-20
     - v1.1-beta-5  修复只能抢答第一个任务bug和优化结构
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 <<<<<<< HEAD
@@ -94,3 +99,11 @@ win10或者Linux自行安装,手机端推荐使用[**Qpython**][1]
   [2]: https://jingyan.baidu.com/article/5d368d1ea6c6e33f60c057ef.html
 >>>>>>> main
 >>>>>>> Stashed changes
+=======
+- 20-12-24
+    - v1.2-beta-1  增加自动登录功能,无需cookie登录
+   
+
+
+  [1]: https://www.qpython.org/
+>>>>>>> main
