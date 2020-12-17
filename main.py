@@ -300,7 +300,7 @@ def login():
 def main():
     global s
     s = requests.session()
-    print('========欢迎使用机电云课堂脚本,当前版本为:v1.1-beta-5=========')
+    print('========欢迎使用机电云课堂脚本,当前版本为:v1.2-beta-1=========')
     Initialize(uid,pws)
     login()
     print('=====================Initializing==========================')
