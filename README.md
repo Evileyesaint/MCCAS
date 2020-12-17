@@ -1,4 +1,3 @@
-*****
 #**🚀机电云课堂抢答脚本**#
 当前版本为v1.1-beta-5
 ##**Features**##
@@ -6,20 +5,25 @@
 - 待机更新任务
 - 快速响应任务
 - 手动选择模式
+
+
 ##**使用**##
+
 ####安装依赖####
+
 脚本需要运行在python3.7以上版本（其它版本暂未测试)
 win10或者Linux自行安装,手机端推荐使用[**Qpython**][1]
 安装python requests库支持
+
     pip install requests
 在学校机电云课堂网站获得[**cookie**][2],下载脚本运行后输入cookie即可
+
     手机端Qpython直接运行
     其他平台使用Pyhon3 main.py运行
 
 ##**截图**##
 ![run](https://www.evileyesaint.com/uploads/2020/11/run.jpg)
 ![jc](https://www.evileyesaint.com/uploads/2020/11/jc.jpg)
-<br>
 
 ##**更新**##
 - 20-11-4
